@@ -1,2 +1,2 @@
 # git-demo
-test git
+Test git and github
